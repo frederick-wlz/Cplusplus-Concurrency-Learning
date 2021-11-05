@@ -1,4 +1,6 @@
 # Prerequisites
+*.idea*
+*ake*
 *.d
 
 # Compiled Object files
